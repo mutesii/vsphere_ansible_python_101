@@ -33,9 +33,3 @@ All package requirements are installed (with pip) during installation.
 * Python >=2.7 or >= 3.3
 
 
-Author Information
-------------------
-
-Michael Angelos Simos
-
-[www.asimos.tk](https://www.asimos.tk)
